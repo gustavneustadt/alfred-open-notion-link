@@ -1,4 +1,4 @@
-#Alfred, open notion link!
+# Alfred, open notion link!
 
 This workflow makes it easy to convert Notion Links into Notion App Links and open them with the Notion Desktop App.
 
